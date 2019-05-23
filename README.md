@@ -4,7 +4,7 @@ I am going to build a portfolio website for this project. It will showcase my wo
 ## Wireframes
 I value planning so here are some wireframes to show the site architecture and layout could possibly be.
 
-![Wireframe of the Home Page](wireframes/Home.pdf)
+![Wireframe of the Home Page](wireframes/Home.jpg)
 
 Header - This will include my name and my Navigation Bar.
 
@@ -14,7 +14,7 @@ Main Content - There will be a photo of me, in front of a bookcase.
 
 Footer - This is where the copyright information will be.
 
-![Wireframe of the Portfolio Page](wireframes/Portfolio.pdf)
+![Wireframe of the Portfolio Page](wireframes/Portfolio.jpg)
 
 Header - This will include my name and my Navigation Bar.
 
@@ -24,7 +24,7 @@ Main Content - This is where my portfolio of documents and projects will be.
 
 Footer - This is where the copyright information will be.
 
-![Wireframe of the About Page](wireframes/About.pef)
+![Wireframe of the About Page](wireframes/About.jpg)
 
 Header - This will include my name and my Navigation Bar.
 
@@ -34,7 +34,7 @@ Main Content: There will be an introduction box and then my resume.
 
 Footer: This is where the copyright information will be.
 
-![Wireframe of the Contact Page](wireframes/Contact.pdf)
+![Wireframe of the Contact Page](wireframes/Contact.jpg)
 
 Header - This will include my name and my Navigation Bar.
 
