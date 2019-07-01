@@ -1,0 +1,35 @@
+nav {
+background: #0C4761;
+border-width: 6px;
+border-style: solid;
+border-color: #FFFFFF;
+padding: 20px;
+margin: 20px;
+font-size: 30px;
+color: #FFFFFF;}
+li {display: inline;
+margin-right: 20px;}
+a:link {color: white;}
+a:visited {color: grey;}
+a:hover {color: lightskyblue;}
+a:active {color: lightsteelblue;}
+
+body {
+background: #036E8C;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+font-size: 20px;
+margin: 20px;
+padding: 10px;}
+li {display: block;}
+h2 {color: black;}
+
+footer {
+background: #0C4761;
+border-width: 6px;
+border-style: solid;
+border-color: #FFFFFF; 
+padding: 20px;  
+margin: 20px;
+font-size: 16px;
+color: #FFFFFF;}
